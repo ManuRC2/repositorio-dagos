@@ -1,0 +1,4 @@
+Nombre: Manuel
+Apellido: Colusso
+Curso: 6to
+Especialidad: Informatica
