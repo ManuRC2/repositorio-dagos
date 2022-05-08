@@ -1,4 +1,2 @@
-Nombre: Manuel
-Apellido: Colusso
-Curso: 6to
-Especialidad: Informatica
+Nombre y Apellido: Manuel Colusso
+Curso y Especialidad: 6to Informatica
